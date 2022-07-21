@@ -1,0 +1,47 @@
+ div {
+     padding: 5px;
+     width: 90vh;
+text-align: center;
+     margin: auto;
+     box-shadow: rgba(54, 54, 61, 0.2) 0px 7px 29px 0px;
+
+
+ }
+ h1{
+    text-align: center;
+    color: gray;
+ }
+
+ img {
+
+     height: 200px;
+     width: 98%;
+     padding: 5px;
+ }
+
+ form {
+     display: grid;
+     text-align: center;
+     margin-top: 10px;
+     margin-bottom: 8px;
+ }
+
+ input {
+     padding: 10px;
+     margin-bottom: 8px;
+     background-color: #fc2779;
+     color: white;
+     font-weight: bold;
+     font-style: initial;
+ }
+
+ #google {
+     margin-top: 5px;
+ }
+
+ #login {
+     text-decoration: none;
+     border: 0px;
+     color: black;
+     color: #fc2779;
+ }
